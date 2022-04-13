@@ -1,0 +1,10 @@
+Zusatzaufgabe:
+---------------
+
+Aufgabe 4:
+Versuche das selbe wie in den Aufgaben zuvor aber versuchen ohne in den vorherigen Aufgaben nachzuschauen.
+Wenn du etwas nicht mehr weisst darfst du natürlich nachsehen.
+
+Aufgabe 5:
+Versuche mit einem neuen Input-Type Number "<input type="number" name="alter">" ein Feld alter hinzuzufügen.
+Das Alter wird im Webserver danach ausgegeben und gesagt (mit if/else) ob man minderjährig ist.

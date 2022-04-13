@@ -1,6 +1,6 @@
 <?php
 
-// Befehl zum Ausführen: hp -S localhost:8000
+// Befehl zum Ausführen: php -S localhost:8000
 // Link für den Browser: localhost:8000
 
 if ($_SERVER['REQUEST_URI'] == "/") {
